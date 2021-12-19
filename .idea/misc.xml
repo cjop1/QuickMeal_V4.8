@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/activity_form.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/fragment_carta.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/fragment_combos.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/fragment_restaurantes.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/grid_general.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/grid_restaurantes.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/QuickMeal-V3.8-master (2)/QuickMeal-V3.8-master/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Downloads/RETOS DEFINITIVOS MINTIC/Reto 4/QuickMeal-V4.8/app/src/main/res/layout/activity_form.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Downloads/RETOS DEFINITIVOS MINTIC/Reto 4/QuickMeal-V4.8/app/src/main/res/layout/fragment_restaurantes.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/activity_form.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/fragment_carta.xml" value="0.25" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/fragment_combos.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/fragment_restaurantes.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/grid_general.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/grid_restaurantes.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/layout/nav_header_main.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/Definitivos Retos/Reto 3/QuickMeal3.8-master/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_local_pizza_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_location_city_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_menu_camera.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/drawable/side_nav_bar.xml" value="0.18125" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/activity_form.xml" value="0.15" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/fragment_carta.xml" value="0.12" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/fragment_combos.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/fragment_restaurantes.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/cjop1/Sistemas/MinTIC/Ciclo 4 Mobiles/TutoriasCiclo4/QuickMeal_V28_Def/app/src/main/res/menu/main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

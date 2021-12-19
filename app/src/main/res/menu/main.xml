@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="100"
+        android:title="@string/action_add"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share"
+        android:title="@string/toolbar_compartir"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_share_24"
+        />
+
+    <item
+        android:id="@+id/llamada"
+        android:title="@string/toolbar_llamada"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_call_24"
+        />
+
+    <item
+        android:id="@+id/carrito"
+        android:title="@string/toolbar_carrito"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        />
+</menu>

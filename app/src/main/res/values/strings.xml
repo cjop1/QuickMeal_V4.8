@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">QuickMeal V4.8 Mapa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Quick Meal</string>
+    <string name="nav_header_subtitle">contacto@quickmeal.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_add">CRUD</string>
+
+    <string name="toolbar_compartir">Compartir</string>
+    <string name="toolbar_llamada">Llamada</string>
+    <string name="toolbar_carrito">Carrito</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_carta">Carta</string>
+    <string name="menu_combos">Combos</string>
+    <string name="menu_domicilios">Domicilios</string>
+    <string name="menu_restaurantes">Restaurantes</string>
+    <string name="menu_pagos">Pagos</string>
+    <string name="menu_contacto">Contacto</string>
+
+    <!--CARTA-->
+
+    <string name="titulo_menu">Nuestro Menú</string>
+
+    <string name="menu_1">Hamburgesa</string>
+    <string name="descripcion_1">Carne de la mejor calidad, preparada al carbón</string>
+    <string name="precio_1">$18.000</string>
+
+    <string name="menu_2">Hamburgesota</string>
+    <string name="descripcion_2">Doble disfrute con doble carne y más queso </string>
+    <string name="precio_2">$24.000</string>
+
+    <string name="menu_3">Hot dog</string>
+    <string name="descripcion_3">salchicha alemana preparada con la mejor técnica </string>
+    <string name="precio_3">$15.000</string>
+
+    <string name="menu_4">Sandwich</string>
+    <string name="descripcion_4">Jamón serrano y lonjas de carne de res </string>
+    <string name="precio_4">$15.000</string>
+
+    <string name="menu_5">Empanada</string>
+    <string name="descripcion_5">De carne molida y pollo con queso </string>
+    <string name="precio_5">$2.000</string>
+
+    <string name="menu_6">Pizza</string>
+    <string name="descripcion_6">Masa crocante con pollo y champiñones frescos</string>
+    <string name="precio_6">$28.000</string>
+
+
+    <!--COMBOS-->
+
+    <string name="titulo_combos">Nuestros combos</string>
+
+    <string name="combos_1">QM Hamburguesa</string>
+    <string name="descrip_combos_1">Hamburguesa con 100g de papas y gaseosa 350ml</string>
+    <string name="precio_combos_1">$24.000</string>
+
+    <string name="combos_2">QM Hamburguesota</string>
+    <string name="descrip_combos_2">Hamburgesota con 100g de papas y gaseosa 350ml </string>
+    <string name="precio_combos_2">$28.000</string>
+
+    <string name="combos_3">QM Familiar hamburguesas</string>
+    <string name="descrip_combos_3">Cuatro hamburguesas 500g de papas y gaseosa 2000ml</string>
+    <string name="precio_combos_3">$90.000</string>
+
+    <string name="combos_4">QM Hot dog</string>
+    <string name="descrip_combos_4">Hamburgesota con 100g de papas y gaseosa 350ml </string>
+    <string name="precio_combos_4">$21.000</string>
+
+    <string name="combos_5">QM Sandwich</string>
+    <string name="descrip_combos_5">Sandwich con 100g de papas y gaseosa 350ml </string>
+    <string name="precio_combos_5">$21.000</string>
+
+    <string name="combos_6">QM Empanadas</string>
+    <string name="descrip_combos_6">Cuatro empanadas con gaseosa 1000ml </string>
+    <string name="precio_combos_6">$10.000</string>
+
+    <!--GRID CARTAS y COMBOS PARA VISUALIZAR RESULTADOS-->
+
+    <string name="txtGralId">Id</string>
+    <string name="txtGralProducto">Nombre Producto</string>
+    <string name="txtGralDescripcion">Descripción</string>
+    <string name="txtGralPrecio">Precio</string>
+
+
+    <!--GRID RESTAURANTES PARA VISUALIZAR RESULTADOS-->
+
+    <string name="txtRestId">Id</string>
+    <string name="txtRestRestaurante">Nombre Restaurante</string>
+    <string name="txtRestDireccion">Dirección</string>
+    <string name="txtRestLocacion">Coordenadas</string>
+
+
+    <!--ACTIVITY FORM PARA EJECUTAR CRUD-->
+
+    <string name="editCampo1">Campo 1</string>
+    <string name="editCampo2">Campo 2</string>
+    <string name="editCampo3">Campo 3</string>
+    <string name="btnBuscar">Buscar imagen elemento</string>
+    <string name="btnInsertar">Insertar elemento</string>
+    <string name="btnConsultar">Consultar elemento</string>
+    <string name="btnActualizar">Actualizar elemento</string>
+    <string name="btnBorrar">Borrar elemento</string>
+    <string name="txtId">Id elemento</string>
+
+</resources>
